@@ -1,0 +1,6 @@
+mysql:
+  host: "127.0.0.1"
+  database: "database"
+  user: "root"
+  password: ""
+criar_loja_preco: 50000 #Preço para o jogador poder criar a loja.

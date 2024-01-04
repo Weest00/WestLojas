@@ -1,0 +1,9 @@
+name: WestLojas
+version: 1.0
+author: West
+depend: [PlotSquared]
+softdepend: [PlotSquared]
+load: STARTUP
+main: br.com.west.lojas.Main
+commands:
+  lojas:
